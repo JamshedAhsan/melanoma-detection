@@ -4,22 +4,22 @@ This repo is attempt to make CNN model for multiclass classification and melanom
 # Observations/Learning
 1. Following experiments were done
 
-a) Adding More number of layers
+	a) Adding More number of layers
 
-b) Trials on optimizers
+	b) Trials on optimizers
 
-c) Using dropout
+	c) Using dropout
 
-d) Adding L2 normalization
-
+	d) Adding L2 normalization
+	
 2. Observations
 
-a) Adam provide good result with dropout
+	a) Adam provide good result with dropout
  
-b) Class imbalance in training data led to overfitting
+	b) Class imbalance in training data led to overfitting
 
 3. Learning
 
-a) Data Augmentation methodology
+	a) Data Augmentation methodology
 
-b) Impact of balancing class data to manage model performance during training and validation
+	b) Impact of balancing class data to manage model performance during training and validation
